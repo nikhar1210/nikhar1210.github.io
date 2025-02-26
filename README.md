@@ -47,8 +47,6 @@ I thrive at the intersection of business strategy and technical execution, lever
 - Improved internal knowledge management and customer service efficiency.
 - Technologies: Python, Amazon Bedrock, AWS S3
 
-[🔗 Repository Link (if applicable)]( )
-
 ---
 
 ### 2. **Call Center Text Analytics Model**
@@ -57,8 +55,6 @@ I thrive at the intersection of business strategy and technical execution, lever
 - Deployed across the USA and Canada for multiple business units.
 - Technologies: Python (TF-IDF, PCA), LDA
 
-[🔗 Repository Link (if applicable)]()
-
 ---
 
 ### 3. **Pricing Elasticity Model at Nestlé**
@@ -66,8 +62,6 @@ I thrive at the intersection of business strategy and technical execution, lever
 - Achieved $12 million annual savings by optimizing pricing strategies.
 - Reduced runtime by 60% using optimized pipelines.
 - Technologies: Python (Lasso Regression), SQL
-
-[🔗 Repository Link (if applicable)]()
 
 ---
 
